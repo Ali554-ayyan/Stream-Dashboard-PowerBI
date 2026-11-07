@@ -99,12 +99,6 @@ All visuals respond dynamically to the following slicers:
 - Forecast revenue and subscriber growth
 - Publish to Power BI Service with scheduled refresh
 
-## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-
----
 
 ⭐ If you found this project useful, consider giving it a star!
