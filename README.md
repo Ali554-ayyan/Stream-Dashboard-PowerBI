@@ -2,8 +2,9 @@
 
 An interactive **Power BI dashboard** that analyzes subscriber behavior, viewing patterns, revenue, and churn for a video streaming platform. It gives a complete, filterable view of business performance in a single page.
 
+![Dashboard Preview](stream.png)
 
-
+---
 
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
@@ -13,7 +14,6 @@ An interactive **Power BI dashboard** that analyzes subscriber behavior, viewing
 - [Interactive Filters](#-interactive-filters)
 - [Key Insights](#-key-insights)
 - [Tech Stack](#-tech-stack)
-- [How to Use](#-how-to-use)
 - [Project Structure](#-project-structure)
 - [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
@@ -81,24 +81,13 @@ All visuals respond dynamically to the following slicers:
 - **Power BI Desktop**: data modeling, DAX measures, and visualization
 - **DAX**: calculated measures (ARPU, Churn %, etc.)
 - **Power Query**: data cleaning and transformation
-- **Excel / CSV**: data source
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Open the `.pbix` file in **Power BI Desktop**.
-3. If prompted, refresh the data source or update the file path.
-4. Use the slicers (Month, Genre, Device, Plan, Country) to explore the data.
+- **Power BI Template (.pbit)**: shareable template file of the report
 
 ## 📁 Project Structure
 
 ```
-├── data/                 # Source dataset(s)
-├── images/               # Dashboard screenshots
-├── dashboard.pbix        # Power BI report file
+├── stream.pbit           # Power BI template file (report + data model)
+├── stream.png            # Dashboard preview screenshot
 └── README.md             # Project documentation
 ```
 
