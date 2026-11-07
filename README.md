@@ -2,9 +2,8 @@
 
 An interactive **Power BI dashboard** that analyzes subscriber behavior, viewing patterns, revenue, and churn for a video streaming platform. It gives a complete, filterable view of business performance in a single page.
 
-![Dashboard Preview](images/dashboard.png)
 
----
+
 
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
